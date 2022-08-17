@@ -4,7 +4,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "user08-delivery"
+    _PROJECT_NAME: "team2-delivery"
 
 phases:
   install:
